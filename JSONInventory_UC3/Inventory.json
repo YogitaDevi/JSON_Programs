@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "Rice",
+    "NumberOfShare": "5",
+    "SharePrice": "100"
+  },
+  {
+    "StockName": "Pulses",
+    "NumberOfShare": "10",
+    "SharePrice": "50"
+  },
+  {
+    "StockName": "Wheats",
+    "NumberOfShare": "20",
+    "SharePrice": "100"
+  }
+]
